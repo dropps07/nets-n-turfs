@@ -3,4 +3,4 @@
 # Steps to run it locally
 ## npm install
 ## make sure you have bun 
-## npm run  dev  
+## npm run  dev  git

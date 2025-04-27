@@ -25,7 +25,7 @@ const dummyArenas: Arena[] = [
     distance: "2.5 km",
     price: "$35",
     rating: 4.5,
-    sport: "tennis",
+    sport: "Badminton",
     image: "https://images.unsplash.com/photo-1595435742656-5d8db5d6f20d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
   },
   {
@@ -45,7 +45,7 @@ const dummyArenas: Arena[] = [
     distance: "4.1 km",
     price: "$45",
     rating: 4.6,
-    sport: "tennis",
+    sport: "Badminton",
     image: "https://images.unsplash.com/photo-1622279457486-62dcc4e036eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
   },
   {
@@ -60,12 +60,12 @@ const dummyArenas: Arena[] = [
   },
   {
     id: 6,
-    name: "Ace Tennis Club",
+    name: "Ace Badminton Club",
     location: "Northside",
     distance: "2.9 km",
     price: "$38",
     rating: 4.4,
-    sport: "tennis",
+    sport: "Badminton",
     image: "https://images.unsplash.com/photo-1567226055069-4c4c0ac95957?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80",
   },
 ];

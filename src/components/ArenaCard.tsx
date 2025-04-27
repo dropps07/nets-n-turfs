@@ -10,7 +10,7 @@ export interface Arena {
   distance: string;
   price: string;
   rating: number;
-  sport: 'football' | 'tennis';
+  sport: 'football' | 'Badminton';
   image: string;
 }
 
